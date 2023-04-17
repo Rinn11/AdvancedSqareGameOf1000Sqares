@@ -1,0 +1,2 @@
+# AdvancedSqareGameOf1000Sqares
+AdvancedSqareGameOf1000Sqares
