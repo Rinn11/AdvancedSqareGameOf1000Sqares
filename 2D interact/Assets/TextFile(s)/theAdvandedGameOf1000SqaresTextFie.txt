@@ -1,0 +1,6 @@
+Player moves with A/D using transform
+Player can jump with space (code uses add force)
+If player jump at the right time (to generate enough force) the player can break through the blue wall (uses collision 2D event)
+If player reaches the green sqare the screen turns green as you've compleated the "game"
+
+Prefebs are all the the walls (including the blue one (white ones are all one prefab)
